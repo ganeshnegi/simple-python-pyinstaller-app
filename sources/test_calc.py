@@ -1,7 +1,6 @@
 import unittest
 import calc
 
-
 class TestCalc(unittest.TestCase):
     """
     Test the add function from the calc library
